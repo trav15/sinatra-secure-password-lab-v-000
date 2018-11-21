@@ -36,7 +36,7 @@ describe 'App' do
   #     expect(last_response.body).to include('Login')
   #   end
 
-  end
+  # end
 
   describe "Logging In" do
     it "displays Log In Page" do
